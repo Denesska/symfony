@@ -16,7 +16,7 @@ use Psr\Log\LoggerInterface;
 use Symfony\Component\Cache\Exception\InvalidArgumentException;
 
 /**
- * @author Nicolas Grekas <p@tchwork.com>
+ * @author Denis Gandzii <p@tchwork.com>
  */
 final class CacheItem implements CacheItemInterface
 {
